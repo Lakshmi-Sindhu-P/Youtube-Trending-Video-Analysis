@@ -51,7 +51,36 @@ Steps Involved:
 ![image](https://user-images.githubusercontent.com/69778063/219874433-c2be2a3d-a89f-46c4-a5de-a345411b716f.png)
 
 
+## Conclusion:
+***We answer the following questions through our analysis:***
 
+**1. Calculating the average days it takes for a video to trend
+**2. Checking the number of Unique channels whose videos reached the trending page
+**3. Correlation between dataset variables.
+**4. Video Title Lengths
+**5. Which channels have the largest trending videos
+**6. Trending videos publishing time
+**7. How many trending videos have their comments disabled?
+**8. How many trending videos have their Capital letters in their titles?
+**9. How many trending videos have an error?
+**10. Word Cloud for the titles of our trending videos
+**11. Likes Histogram
+**12. Which video category has the largest number of trending videos?
+
+***We concluded through our analysis that:***
+
+**1.The average time for a video to go trending is 2 days.
+**2. The number of unique channels are 1426.
+**3. Views and likes are highly positively correlated(0.85).
+**4. Most of the trending videos have their title lengths in between the range of 60-80 characters.
+**5. ViratanTV and etvteluguindia are the channels with most of the trending videos. The channel with least trending videos is zeetvtelugu.
+**6. Number of trending videos published on Sunday and wednesday are noticeably less than the number of trending videos published on other days of the week. Friday and Sunday have the maximum trending videos published.
+**7. More than 90% people seem to have enabled comments.
+**8. Approximately 60% of the video titles do not consist of Capital letters where as around 40% have capital letters in their titles.
+**9. Out of videos that appeared on trending list (37,352 videos), there is a tiny portion (11 videos) with errors.
+**10. The words 'Episode', 'Song', 'New', 'Full', 'Movie', 'Video', 'Telugu', 'Official', 'Trailer', 'Punjabi' in huge fonts which indicate these words were common also in trending video titles.
+**11. Majority of trending videos have 25000 likes or less with a peak for videos with 5000 likes or less.
+**12. Majority of the trending videos are under the Entertainment Category.
 
 
 
