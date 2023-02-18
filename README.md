@@ -32,13 +32,16 @@ Steps Involved:
 
 
 ### Data Visualization:
-1. List of Channels that reached trending
+1. List of Channels that reached trending:
+
 ![image](https://user-images.githubusercontent.com/69778063/219874297-b6f69dbb-5f19-4b22-b104-bf0a8cc506be.png)
 
-2. Video title lengths
+2. Video title lengths:
+
 ![image](https://user-images.githubusercontent.com/69778063/219874321-39252eac-8123-431a-bb97-b346594ad332.png)
 
-3. Trending videos publishing time
+3. Trending videos publishing time:
+
 ![image](https://user-images.githubusercontent.com/69778063/219874350-5f5ad2ed-90e7-47d2-8fe5-2b80f3788f92.png)
 
 4. How many trending videos have their comments disabled?
